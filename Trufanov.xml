@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BITI xmlns:xsi=
+    "http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="Trufanov Schema.xsd">
+    <Title>Расписание занятий для группы ИФСТ-31</Title>
+    <Common_block>
+        <Block>
+            <Day>Понедельник</Day>
+            <Lessons>
+                <Lesson>
+                    <Nechet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Элективные курсы по физической культуре</Name>
+                        <Teacher>Зуева И.А</Teacher>
+                        <Auditorium>Спортивный зал</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Элективные курсы по физической культуре</Name>
+                        <Teacher>Зуева И.А</Teacher>
+                        <Auditorium>Спортивный зал</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Иностранный язык для проф.общения</Name>
+                        <Teacher>Бахарева О.В.</Teacher>
+                        <Auditorium>525</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Иностранный язык для проф.общения</Name>
+                        <Teacher>Бахарева О.В.</Teacher>
+                        <Auditorium>525</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Современные технологии интернет программирования</Name>
+                        <Teacher> Ефремов Р.В.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                        <Chet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Современные технологии интернет программирования</Name>
+                        <Teacher> Ефремов Р.В.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+    
+        <Block>
+            <Day>Вторник</Day>
+            <Lessons>
+                <Lesson>
+                    <Nechet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Мультимедиа технологии</Name>
+                        <Teacher>Виштак Н.М.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Мультимедиа технологии</Name>
+                        <Teacher>Виштак Н.М.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Моделирование процессов и систем</Name>
+                        <Teacher>Очкур Г.В.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Моделирование процессов и систем</Name>
+                        <Teacher>Очкур Г.В.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+
+        <Block>
+            <Day>Среда</Day>
+            <Lessons>
+                <Lesson>Технологии создания web-ресурсов</Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Технологии создания web-ресурсов</Name>
+                        <Teacher>Мотков А.Г.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Технологии создания web-ресурсов</Name>
+                        <Teacher>Мотков А.Г.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Технологии создания web-ресурсов</Name>
+                        <Teacher>Мотков А.Г.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Архитектура информационных систем</Name>
+                        <Teacher>Виштак О.В.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+
+        <Block>
+            <Day>Четверг</Day>
+            <Lessons>
+                <Lesson>
+                    <Nechet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>ФНиТ</Name>
+                        <Teacher>Михайлова О.Н.</Teacher>
+                        <Auditorium>420</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Архитектура информационных систем</Name>
+                        <Teacher>Михеев И.В.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Архитектура информационных систем</Name>
+                        <Teacher>Михеев И.В.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Архитектура информационных систем</Name>
+                        <Teacher>Михеев И.В.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+
+        <Block>
+            <Day>Пятница</Day>
+            <Lessons>
+                <Lesson>
+                    <Nechet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Современные технологии управения базами данных</Name>
+                        <Teacher>Штырова И.А.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>Современные технологии управения базами данных</Name>
+                        <Teacher>Штырова И.А.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Элективные курсы по физической культуре</Name>
+                        <Teacher>Зуева И.А.</Teacher>
+                        <Auditorium>Спортивный зал</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>10:10 - 11:40</Time>
+                        <Name>Современные технологии управения базами данных</Name>
+                        <Teacher>Штырова И.А.</Teacher>
+                        <Auditorium>102</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+
+        <Block>
+            <Day>Суббота</Day>
+            <Lessons>
+                <Lesson>
+                    <Nechet>
+                        <Time>08:30 - 10:00</Time>
+                        <Name>ФНиТ</Name>
+                        <Teacher>Михайлова О.Н.</Teacher>
+                        <Auditorium>-</Auditorium>
+                        <Form_of_education>Дистанционная</Form_of_education>
+                    </Nechet>
+                </Lesson>
+                <Lesson>
+                    <Nechet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Современные технологии ООП</Name>
+                        <Teacher>Бельмесов П.И.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Nechet>
+                    <Chet>
+                        <Time>12:10 - 13:40</Time>
+                        <Name>Современные технологии ООП</Name>
+                        <Teacher>Бельмесов П.И.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+                <Lesson>
+                    <Chet>
+                        <Time>13:50 - 15:20</Time>
+                        <Name>Современные технологии ООП</Name>
+                        <Teacher>Бельмесов П.И.</Teacher>
+                        <Auditorium>ВЦ</Auditorium>
+                        <Form_of_education>Очная</Form_of_education>
+                    </Chet>
+                </Lesson>
+            </Lessons>
+        </Block>
+    </Common_block>
+</BITI>
